@@ -1,5 +1,3 @@
-package daspro-jobsheet8;
-
 import java.util.Scanner;
 public class Star22 {
     public static void main(String[] args) {
