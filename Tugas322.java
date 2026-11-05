@@ -27,7 +27,6 @@ public class Tugas322 {
                 
                 totalBarangSemuaToko += totalBarangTokoIni;
                 
-                // Jika > maka otomatis toko dengan nomor paling kecil yang tersimpan saat nilai sama
                 if (totalBarangTokoIni > maxBarangToko) {
                     maxBarangToko = totalBarangTokoIni;
                     tokoTerbanyak = i;
